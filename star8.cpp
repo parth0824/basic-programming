@@ -10,7 +10,6 @@ int main(){
 			else cout<<"  ";
             x=x;
             if(j < n)x--;else x++;
-
 		}
         cout<<endl;
 	}
