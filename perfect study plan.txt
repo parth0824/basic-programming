@@ -1,0 +1,5 @@
+11:00 pm - 6:00 am ---> sleep
+6:00 am - 9:00 am ----> web dev
+10:00 am - 1:00 pm ---> dsa udemy 
+3:00 pm - 6:00 pm ----> dsa question practice
+8:00 pm - 10:00 pm ---> contest or a2oj or coding problems 
